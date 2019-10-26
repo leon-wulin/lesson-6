@@ -9,10 +9,9 @@ def fill_list(input_output_list):
     return
 
 
-mylist=[1]
+mylist=[]
 fill_list(mylist)
 print(mylist)
-
 
 fill_list(mylist)
 print(mylist)
